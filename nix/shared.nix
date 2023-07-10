@@ -14,7 +14,7 @@ rec {
     echo -e " \033[32m| |_) | |_| | |_| | | | (_) | | | |\033[34m  __/\033[35m (_| |\033[36m (_| |\033[34mhttps://github.com/pythoneda-artifact\033[0m";
     echo -e " \033[32m| .__/ \__, |\__|_| |_|\___/|_| |_|\033[34m\___|\033[35m\__,_|\033[36m\__,_|\033[35mhttps://github.com/pythoneda\033[0m";
     echo -e " \033[32m| |     __/ |                                       \033[36mhttps://patreon.com/rydnr\033[0m";
-    echo -e " \033[32m|_| \033[31mS\033[36mA\033[32m |___/          \033[33mNIX FLAKES\033[0m";
+    echo -e " \033[32m|_| \033[31mS\033[36mA\033[32m |___/             \033[33mNIX FLAKES\033[0m";
     echo;
     echo " Thank you for using pythoneda-artifact-shared/nix-flakes, PythonEDA in general, and for your appreciation of free software.";
     echo;
